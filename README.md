@@ -1,6 +1,6 @@
 # ML-R
 
-En este proyecto se trabaja con la base de datos de "Credit Approval" disponible en ![https://archive.ics.uci.edu/ml/datasets/Credit+Approval](https://archive.ics.uci.edu/ml/datasets/Credit+Approval). 
+En este proyecto se trabaja con la base de datos de "Credit Approval" disponible en [https://archive.ics.uci.edu/ml/datasets/Credit+Approval](https://archive.ics.uci.edu/ml/datasets/Credit+Approval). 
 
 El objetivo fundamental del proyecto es cubrir el proceso entero de creación de un modelo de clasificación usando R y la librería Caret. Las fases que se seguirán son las siguientes:
 
